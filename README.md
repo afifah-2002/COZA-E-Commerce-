@@ -49,7 +49,7 @@ This project is a PHP-based online clothing store that enables users to browse, 
 <br><br><br><br>
 ![](/coza/coza5.png)
 
-### **Admin Interface : **
+### **Admin Interface :**
 <br><br><br><br>
 ![](/coza/coza1.png)
 
