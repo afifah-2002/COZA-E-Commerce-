@@ -28,8 +28,8 @@ This project is a PHP-based online clothing store that enables users to browse, 
 3. **Transaction Monitoring:** Track and oversee secure online transactions, ensuring a smooth payment process.
 
 4. **Inventory Management:** Keep track of product availability, enabling timely restocking and preventing overselling.
-5. 
-6. **Data Entry Interfaces:** Utilize user-friendly screens for easy data entry, catering to various levels of administrative tasks.
+
+5. **Data Entry Interfaces:** Utilize user-friendly screens for easy data entry, catering to various levels of administrative tasks.
 
 ## Software Requirements
 
@@ -40,3 +40,4 @@ This project is a PHP-based online clothing store that enables users to browse, 
 - Server                      : XAMPP server
 
 ## User Interface
+
