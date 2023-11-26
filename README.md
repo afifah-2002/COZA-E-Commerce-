@@ -40,4 +40,17 @@ This project is a PHP-based online clothing store that enables users to browse, 
 - Server                      : XAMPP server
 
 ## User Interface
+### Customer Interface
+![](/coza/coza2.png)
+<br><br><br><br>
+![](/coza/coza3.png)
+<br><br><br><br>
+![](/coza/coza4.png)
+<br><br><br><br>
+![](/coza/coza5.png)
+
+### Admin Interface
+<br><br><br><br>
+![](/coza/coza1.png)
+
 
