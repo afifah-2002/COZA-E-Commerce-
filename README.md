@@ -1,4 +1,4 @@
-# COZA
+# COZA Store 🛍️
 This project is a PHP-based online clothing store that enables users to browse, search, and purchase a variety of products securely. Utilizing MySQL for server-side data storage, the application provides a seamless experience for customers to explore items, update their information, and conduct safe transactions using credit/debit cards.
 
 ## Features
