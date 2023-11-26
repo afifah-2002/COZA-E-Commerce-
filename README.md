@@ -54,8 +54,11 @@ This project is a PHP-based online clothing store that enables users to browse, 
 ![](/coza/coza1.png)
 
 ## **ER Diagram**
-
+<br><br><br><br>
+![](/architecture/picture11.png)
 ## **Schema Diagram**
+<br><br><br><br>
+![](/architecture/picture12.png)
 
 
 
